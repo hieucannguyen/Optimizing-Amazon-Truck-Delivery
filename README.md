@@ -6,7 +6,7 @@ This project aims to address the complexities of optimizing Amazon’s delivery 
 For an in-depth explanation of the project read our [writeup](TSP_writeup.pdf)
 
 ## File Descriptions
-- [writeup](TSP_writeup.pdf)
+- [TSP_writeup.pdf](TSP_writeup.pdf)
 - [AmazonDeliveryTruckScheduling.cpp](AmazonDeliveryTruckScheduling.cpp)
 - [AmazonDeliveryTruckScheduling.hpp](AmazonDeliveryTruckScheduling.hpp)
 - [MTSP.cpp](MTSP.cpp)
