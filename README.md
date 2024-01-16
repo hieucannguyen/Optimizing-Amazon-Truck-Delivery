@@ -15,15 +15,5 @@ For an in-depth explanation of the project read our [writeup](TSP_writeup.pdf)
 - [test.cpp](test.cpp): test functionality
 - [CMakeLists.txt](CMakeLists.txt): Run executables
 
-## Dependencies
-
-List any dependencies or prerequisites that users need to have installed before running your program. Include information on libraries, compilers, or other tools that are necessary for your project to function correctly.
-
-## How to Use
-
-Provide clear and detailed instructions on how users can set up and run your program. Include information on:
-
-1. **Compilation**: Instructions for compiling your C++ code.
-2. **Input**: How to input addresses and initial paths.
-3. **Execution**: Steps to run the program.
-4. **Output**: Description of the output, e.g., optimized paths.
+## How to run executables
+Use cmake on `CMakeLists.txt` to generate executables
