@@ -1,0 +1,11 @@
+cmake_minimum_required( VERSION 3.12 )
+project( TSP VERSION 1.0 )
+
+add_executable( test test.cpp AmazonDeliveryTruckScheduling.cpp AmazonDeliveryTruckScheduling.hpp )
+add_executable( greedyVSopt2 greedyVSopt2.cpp AmazonDeliveryTruckScheduling.cpp AmazonDeliveryTruckScheduling.hpp )
+add_executable( Prime PrimeAddressesScenario.cpp AmazonDeliveryTruckScheduling.cpp AmazonDeliveryTruckScheduling.hpp )
+add_executable( MTSP MTSP.cpp AmazonDeliveryTruckScheduling.cpp AmazonDeliveryTruckScheduling.hpp )
+install( TARGETS test DESTINATION . )
+install( TARGETS greedyVSopt2 DESTINATION . )
+install( TARGETS Prime DESTINATION . )
+install( TARGETS MTSP DESTINATION . )
