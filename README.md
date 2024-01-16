@@ -1,7 +1,7 @@
 # Optimizing-Amazon-Truck-Delivery
 ## Introduction
 
-Briefly introduce your project, explaining its purpose and the problem it aims to solve. Highlight the significance of the Multiple Traveling Salesman Problem (MTSP) and the multi-path version of the opt2 heuristic in the context of delivery truck optimization.
+This project aims to address the complexities of optimizing Amazon’s delivery truck scheduling, particularly focusing on the unique challenges posed by the Traveling Salesman Problem (TSP) and additionally implementing the Multiple Traveling Salesman Problem (MTSP)
 
 For an in-depth explanation of the project read our [writeup](TSP_writeup.pdf) 
 ## Table of Contents
