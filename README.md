@@ -3,25 +3,17 @@ COE 322 Final Project
 ## Introduction
 This project aims to address the complexities of optimizing Amazon’s delivery truck scheduling, particularly focusing on the unique challenges posed by the Traveling Salesman Problem (TSP) and additionally implementing the Multiple Traveling Salesman Problem (MTSP)
 
-For an in-depth explanation of the project read our [writeup](TSP_writeup.pdf) 
-## Table of Contents
-- [File Descriptions](#file-descriptions)
-- [Dependencies](#dependencies)
-- [How to Use](#how-to-use)
-- [Optimizing Two Paths Simultaneously](#optimizing-two-paths-simultaneously)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
+For an in-depth explanation of the project read our [writeup](TSP_writeup.pdf)
 
 ## File Descriptions
-
-Briefly describe the purpose of each major file in your project. Provide a high-level overview to help users understand the structure of your project.
-
-- `main.cpp`: Contains the implementation of the multi-path version of the opt2 heuristic for optimizing two paths simultaneously.
-
-- `address_struct.hpp`: Defines the structure representing addresses with x and y coordinates.
-
-- `helper_functions.hpp`: Includes helper functions such as distance calculation and 2-opt swap.
+- [writeup](TSP_writeup.pdf)
+- [AmazonDeliveryTruckScheduling.cpp](AmazonDeliveryTruckScheduling.cpp)
+- [AmazonDeliveryTruckScheduling.hpp](AmazonDeliveryTruckScheduling.hpp)
+- [MTSP.cpp](MTSP.cpp)
+- [PrimeAddressesScenario.cpp](PrimeAddressesScenario.cpp)
+- [greedyVSopt2.cpp](greedyVSopt2.cpp)
+- [test.cpp](test.cpp)
+- [CMakeLists.txt](CMakeLists.txt)
 
 ## Dependencies
 
