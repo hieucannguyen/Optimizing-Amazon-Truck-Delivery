@@ -2,7 +2,7 @@
 ## Introduction
 
 Briefly introduce your project, explaining its purpose and the problem it aims to solve. Highlight the significance of the Multiple Traveling Salesman Problem (MTSP) and the multi-path version of the opt2 heuristic in the context of delivery truck optimization.
-
+For an in-depth explanation of the project read `TSP_writeup.pdf` 
 ## Table of Contents
 - [File Descriptions](#file-descriptions)
 - [Dependencies](#dependencies)
