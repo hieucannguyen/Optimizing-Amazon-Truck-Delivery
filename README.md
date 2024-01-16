@@ -1,7 +1,7 @@
 # Optimizing-Amazon-Truck-Delivery
 COE 322 Final Project
 ## Introduction
-This project aims to address the complexities of optimizing Amazon’s delivery truck scheduling, particularly focusing on the unique challenges posed by the Traveling Salesman Problem (TSP) and additionally implementing the Multiple Traveling Salesman Problem (MTSP)
+This project aims to address the complexities of optimizing Amazon’s delivery truck scheduling, particularly focusing on the unique challenges posed by the Traveling Salesman Problem (TSP) and additionally implementing a solution to the Multiple Traveling Salesman Problem (MTSP)
 
 For an in-depth explanation of the project read our [writeup](TSP_writeup.pdf)
 
