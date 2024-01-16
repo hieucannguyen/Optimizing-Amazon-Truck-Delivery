@@ -17,3 +17,8 @@ For an in-depth explanation of the project read our [writeup](TSP_writeup.pdf)
 
 ## How to run executables
 Use cmake on `CMakeLists.txt` to generate executables
+1. clone and navigate into directory
+2. create build directory `mkdir build`
+3. run cmake `cmake ../CMakeLists.txt`
+4. make `make`
+5. run executables `./executable` 
