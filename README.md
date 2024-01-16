@@ -12,7 +12,7 @@ For an in-depth explanation of the project read our [writeup](TSP_writeup.pdf)
 - [MTSP.cpp](MTSP.cpp): Simulation to test our solution to the Multiple Traveling Salesman Problem
 - [PrimeAddressesScenario.cpp](PrimeAddressesScenario.cpp): Simulate the implications of some addresses having an Amazon Prime membership
 - [greedyVSopt2.cpp](greedyVSopt2.cpp): Compare the route optimizations between the Greedy algorithm vs. the 2-opt algorithm
-- [test.cpp](test.cpp): test functionality
+- [test.cpp](test.cpp): Test functionality
 - [CMakeLists.txt](CMakeLists.txt): Run executables
 
 ## How to run executables
